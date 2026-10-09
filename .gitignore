@@ -1,0 +1,9 @@
+os_labs_5_and_6
+*.o
+*.out
+*.dSYM/
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
+.idea/
